@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsdfgen.a CMakeFiles/sdfgen.dir/makelevelset3.cpp.o
+/usr/bin/ranlib libsdfgen.a
